@@ -1,0 +1,6 @@
+{
+  "name": "Ki da Destruição Artificial",
+  "description": "Artigo e painel de análise sobre o Ki da Destruição Artificial gerado por Sistemas Gravitacionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
